@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Text Notes</string>
+    <string name="open_string">OPEN</string>
+    <string name="new_string">NEW</string>
+    <string name="save_string">SAVE</string>
+    <string name="action_clear">Clear Note</string>
+    <string name="action_close">Close Note</string>
+    <string name="entry_button_text">ΕΙΣΟΔΟΣ</string>
+    <string name="creator_name">ΝΙΚΟΛΑΟΣ ΚΟΥΚΛΑΣ</string>
+    <string name="file_selected">File Selected:</string>
+</resources>
